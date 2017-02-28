@@ -17,6 +17,11 @@ public class Dugujiujian {
 		System.out.println("1111");
 
 		System.out.println("1111");
+System.out.println("1111");
+System.out.println("asdasdasd");
+System.out.println("1111");
+System.out.println("1111");v
+System.out.println("1111");
 
 	}
 
